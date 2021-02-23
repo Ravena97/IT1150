@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+
+body {background-color: violet;}
+
+table, th, td {
+  border: 1px solid black;
+  padding: 5px;
+}
+table {
+  border-spacing: 15px;
+}
+</style>
+</head>
+<body>
+
+<h2>Animals, Types and Costs</h2>
+<p>Here are the types of animals we offer and their costs.</p>
+
+<table style="width:100%">
+  <tr>
+    <th>Animal</th>
+    <th>Type</th> 
+    <th>Cost</th>
+  </tr>
+  <tr>
+    <td>Snake</td>
+    <td>Cold Blooded Animal</td>
+    <td>$20,000</td>
+  </tr>
+  <tr>
+    <td>Panther</td>
+    <td>Warm Blooded Animal</td>
+    <td>$100,000</td>
+  </tr>
+  <tr>
+    <td>Monkey</td>
+    <td>Warm Blooded Animal</td>
+    <td>$80,000</td>
+  </tr>
+  <tr>
+  <td>Iguana</td>
+  <td> Cold blooded Animal </td>
+  <td> $30,000</td>
+  </tr>
+  
+</table>
+</body>
+</html>
+
+
+
+<img src="monkey.jpg" alt="Monkey">
+<p> A monkey that can serve as a pet and friend! </p>
+
+<img src="snake.jpg" alt="Green snake">
+<p> a slithering friend! </p>
+
+<img src="blackcat.jpg" alt="Black Panther">
+<p> A giant cat that's perfect for cuddles! </p>
+
+<img src="weird animal.jpg" alt="wildly colored animal">
+<p> A cold blooded pal! </p>
