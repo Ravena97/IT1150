@@ -9,9 +9,9 @@ body {background-color: violet;}
 <body>
 
 <ul>
-  <li><a href="index.md">Home</a></li>
-  <li><a href="ShoppeInventory.md">Inventory</a></li>
-  <li><a href="Shoppeorders.md">Orders</a></li>
+  <li><a href="index.hmtl">Home</a></li>
+  <li><a href="ShoppeInventory.hmtl">Inventory</a></li>
+  <li><a href="Shoppeorders.hmtl">Orders</a></li>
 </ul>
 
 
