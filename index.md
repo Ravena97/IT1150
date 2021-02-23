@@ -9,9 +9,9 @@ body {background-color: violet;}
 <body>
 
 <ul>
-  <li><a href="file:///C:/Users/raven/Documents/Shoppehome.HTML">Home</a></li>
-  <li><a href="file:///C:/Users/raven/Downloads/OnlineShoppe/ShoppeInventory.HTML">Inventory</a></li>
-  <li><a href="file:///C:/Users/raven/Documents/Shoppeorders.HTML">Orders</a></li>
+  <li><a href="index.md">Home</a></li>
+  <li><a href="ShoppeInventory.md">Inventory</a></li>
+  <li><a href="Shoppeorders.md">Orders</a></li>
 </ul>
 
 
