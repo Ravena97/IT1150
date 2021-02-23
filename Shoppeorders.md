@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 <body>
 <style>
 body {background-color: violet;}
@@ -34,8 +35,7 @@ div {
   padding: 20px;
 }
 </style>
-<body>
-<body>
+</body>
 
 <h3>Order your exotic friend here!</h3>
 
