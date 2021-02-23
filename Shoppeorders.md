@@ -35,7 +35,7 @@ div {
   padding: 20px;
 }
 </style>
-</body>
+
 
 <h3>Order your exotic friend here!</h3>
 
